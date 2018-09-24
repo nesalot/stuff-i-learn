@@ -413,3 +413,5 @@ Or, in pure Markdown, but losing the image sizing and border:
 ```
 
 ---
+
+[Github Markdown PDF](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
