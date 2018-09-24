@@ -7,7 +7,8 @@ This is intended as a quick reference and showcase.
 [Links](#links)  
 [Images](#images)  
 [Code and Syntax Highlighting](#code)  
-[Tables](#tables)  
+[Tables](#tables)
+[Task Lists](#tasklist)
 [Blockquotes](#blockquotes)  
 [Inline HTML](#html)  
 [Horizontal Rule](#hr)  
@@ -280,6 +281,19 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+<a name="tasklist"/>
+
+## Task Lists
+
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](),
+**formatting**, and <del>tags</del>
+supported
+- [x] list syntax required (any
+unordered or ordered list
+supported)
 
 <a name="blockquotes"/>
 
