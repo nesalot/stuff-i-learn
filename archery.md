@@ -1,1 +1,0 @@
-* Usually "fast flight" type strings need to be an inch longer than Dacron because they stretch less.
